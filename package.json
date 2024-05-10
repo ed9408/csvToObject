@@ -1,0 +1,12 @@
+{
+  "name": "csv2object",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Alexander Rodríguez Londoño",
+  "license": "ISC",
+  "description": "This is a module to parse CSV to JS Object"
+}
